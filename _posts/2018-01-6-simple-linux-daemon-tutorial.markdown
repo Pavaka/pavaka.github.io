@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simple Linux Daemon Tutorial
-date: 2017-12-22 00:00:00 +0300
+date: 2018-01-06 00:00:00 +0300
 img: standing-daemon.jpg
 tags: [Linux, daemon, sysAdmin, C, tutorial]
 ---
